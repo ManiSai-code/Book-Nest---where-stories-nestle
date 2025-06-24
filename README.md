@@ -1,4 +1,4 @@
-# 📚 BookNest: Where Stories Nestle
+# 📚 BookNest - Where Stories Nestle
 
 BookNest is a full-stack MERN (MongoDB, Express, React, Node.js) web application that provides users with a seamless online bookstore experience — from discovering books to purchasing and reviewing them.
 
