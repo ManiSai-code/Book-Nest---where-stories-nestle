@@ -26,5 +26,5 @@ BookNest is a full-stack MERN (MongoDB, Express, React, Node.js) web application
 ---
 
 ## 📁 Project Structure
-![output](structure.png)
+![output](filestructure.png)
 
